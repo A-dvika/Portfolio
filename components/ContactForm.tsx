@@ -13,7 +13,7 @@ const ContactForm = () => {
             href="mailto:advika.thakur.official@gmail.com"
             className="text-blue-500 hover:text-blue-400"
           >
-            Gmail: yourname@gmail.com
+            Gmail: advika.thakur.official@gmail.com
           </a>
         </li>
         <li>
@@ -23,7 +23,7 @@ const ContactForm = () => {
             rel="noopener noreferrer"
             className="text-blue-500 hover:text-blue-400"
           >
-            LinkedIn: linkedin.com/in/yourprofile
+            LinkedIn: linkedin.com/in/a-dvika
           </a>
         </li>
         <li>
