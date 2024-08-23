@@ -107,84 +107,84 @@ export const Projects = [
     text: "A financial literacy platform developed during the American Express Makethon, aimed at empowering users with essential financial knowledge through interactive content.",
     srcFront: "/amexlearn.png",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/amexlearn"
+    github: "https://github.com/monya217/AMEXLearn"
   },
   {
     title: "VeFas",
     text: "An advanced search engine project designed to provide more efficient and accurate search results by leveraging sophisticated algorithms.",
     srcFront: "/vefas.png",
     srcBack: "/m.png",
-    github: "https://github.com/yourusername/vefas"
+    github: "https://github.com/A-dvika/Vector-Project"
   },
   {
     title: "PaperToTorch",
     text: "A PyTorch implementation of a research paper, converting theoretical models into practical deep learning frameworks.",
     srcFront: "/papertotorch.png",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/papertotorch"
+    github: "https://github.com/A-dvika/Paper2Torch"
   },
   {
     title: "Daisy",
     text: "An automated data analysis tool designed to streamline data processing and generate insights efficiently.",
     srcFront: "/Daisy.png",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/daisy"
+    github: "https://github.com/A-dvika/Daisy-Automated-EDA"
   },
   {
     title: "Financia",
     text: "A financial management app designed to help users manage their personal finances effectively through budgeting and financial planning tools.",
     srcFront: "/financia.png",
     srcBack: "/SpaceWebsiteBack.png",
-    github: "https://github.com/yourusername/financia"
+    github: "https://github.com/A-dvika/Financia"
   },
   {
     title: "SpeechSync",
     text: "An AI-powered lip-syncing tool that accurately synchronizes speech with lip movements for video content.",
     srcFront: "/lip.png",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/speechsync"
+    github: "https://github.com/A-dvika/SpeechSync"
   },
   {
     title: "Paper Digest",
     text: "A tool that generates concise summaries of academic papers, making it easier for researchers to stay updated with the latest literature.",
     srcFront: "/papdigest.png",
     srcBack: "/SpaceWebsiteBack.png",
-    github: "https://github.com/yourusername/paperdigest"
+    github: "https://github.com/A-dvika/PaperDigest--AI-Research-Paper-Summariser"
   },
   {
     title: "FinQuiz",
     text: "An interactive quiz platform focused on enhancing financial literacy through engaging questions and challenges.",
     srcFront: "/finquiz.jpg",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/finquiz"
+    github: "https://github.com/A-dvika/FinQuiz"
   },
   {
     title: "Nirodhah",
     text: "A mindfulness app designed to help users manage stress and anxiety through guided meditations and breathing exercises.",
     srcFront: "/nirodhah.png",
     srcBack: "/SpaceWebsiteBack.png",
-    github: "https://github.com/yourusername/nirodhah"
+    github: "https://github.com/dubeyayushi/Nirodhah"
   },
   {
     title: "LawLens",
     text: "A legal document analysis tool that simplifies the process of reviewing contracts and other legal documents.",
     srcFront: "/lawandorder.avif",
     srcBack: "/SpaceWebsiteBack.png",
-    github: "https://github.com/yourusername/lawlens"
+    github: "https://github.com/A-dvika/LawLens"
   },
   {
     title: "StockSim",
     text: "A stock market simulation platform where users can practice trading in a risk-free environment.",
     srcFront: "/stocksim.png",
     srcBack: "/NextWebsiteBack.png",
-    github: "https://github.com/yourusername/stocksim"
+    github: "https://github.com/A-dvika/StockSim"
   },
   {
     title: "Airdraw",
     text: "A digital drawing tool that allows users to create art using hand gestures captured by a webcam.",
     srcFront: "/airdwar.jpg",
     srcBack: "/SpaceWebsiteBack.png",
-    github: "https://github.com/yourusername/airdraw"
+    github: "https://github.com/A-dvika/air_draw"
   }
 ];
 
