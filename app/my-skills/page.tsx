@@ -56,7 +56,7 @@ const Page = () => {
             disableOnInteraction: false,
             reverseDirection: true
           }}
-          speed={5000}
+          speed={4000}
           modules={[Autoplay]}
           className="max-w-[80%]"
         >
